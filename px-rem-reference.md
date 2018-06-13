@@ -10,7 +10,7 @@
     ·
     <a href="https://github.com/guylepage3/px-rem-reference">How to Use</a>
     ·
-    <a href="https://www.npmjs.com/search?q=px-rem-reference">Install via NPM</a>
+    <a href="https://www.npmjs.com/package/px-rem-reference">Install via NPM</a>
   </p>
 </p>
 
