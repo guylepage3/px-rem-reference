@@ -1,6 +1,6 @@
 # px-rem-reference
 
-A simple <code>px</code> to <code>rem</code> conversion reference
+A simple <code>px</code> to <code>rem</code> conversion reference chart
 
 ### Install
 
