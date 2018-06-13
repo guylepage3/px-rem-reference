@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/guylepage3/px-rem-reference/blob/master/px-rem.md">
-    <h2 align="center">PX-REM-Reference</h2>
+    <h3 align="center">PX-REM-Reference</h3>
   </a>
   <p align="center">
     <code>px-rem-reference</code> is a simple pixels to REM reference chart
