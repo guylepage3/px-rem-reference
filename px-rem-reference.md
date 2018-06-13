@@ -1,20 +1,5 @@
-<p align="center">
-  <h3 align="center">px-rem-reference</h3>
-  <p align="center">
-    A simple <code>px</code> to <code>rem</code> conversion reference
-    <br>
-    <a href="https://www.npmjs.com/search?q=px-rem-reference"><strong>Install via NPM</strong></a>
-    <br>
-    <br>
-    <a href="https://github.com/guylepage3/px-rem-reference/blob/master/px-rem-reference.md">Quick Reference</a>
-    ·
-    <a href="https://github.com/guylepage3/px-rem-reference">How to Use</a>
-    ·
-    <a href="https://www.npmjs.com/package/px-rem-reference">Install via NPM</a>
-  </p>
-</p>
-
-<br>
+### px-rem-reference
+A simple <code>px</code> to <code>rem</code> conversion reference
 
 ```
 1px   0.0625rem
@@ -97,4 +82,5 @@
 78px  4.875rem
 79px  4.938rem
 80px  5rem
+
 ```
