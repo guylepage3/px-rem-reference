@@ -5,7 +5,7 @@
   <p align="center">
     A simple <code>px</code> to <code>rem</code> conversion reference
     <br>
-    <a href="https://www.npmjs.com/search?q=px-rem-reference"><strong>NPM Package »</strong></a>
+    <a href="https://www.npmjs.com/search?q=px-rem-reference"><strong>Install via NPM</strong></a>
   </p>
 </p>
 
