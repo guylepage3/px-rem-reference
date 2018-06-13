@@ -3,7 +3,7 @@
     <h3 align="center">PX-REM-Reference</h3>
   </a>
   <p align="center">
-    `px-rem-reference` is a simple pixels to REM reference chart
+    <code>px-rem-reference</code> is a simple pixels to REM reference chart
   </p>
 </p>
 
