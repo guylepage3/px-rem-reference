@@ -1,9 +1,11 @@
 <p align="center">
   <a href="https://github.com/guylepage3/px-rem-reference/blob/master/px-rem.md">
-    <h3 align="center">PX-REM-Reference</h3>
+    <h1 align="center">PX-REM-Reference</h1>
   </a>
   <p align="center">
     <code>px-rem-reference</code> is a simple pixels to REM reference chart
+    <br>
+    <a href="https://www.npmjs.com/search?q=px-rem-reference"><strong>NPM Package »</strong></a>
   </p>
 </p>
 
