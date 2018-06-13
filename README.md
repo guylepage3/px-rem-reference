@@ -5,7 +5,7 @@ A simple <code>px</code> to <code>rem</code> conversion reference
 ### Install
 
 ```
-`npm i px-rem-reference`
+npm i px-rem-reference
 ```
 
 ### Quick reference
