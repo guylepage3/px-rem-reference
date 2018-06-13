@@ -1,4 +1,13 @@
-# Pixels to REM Chart
+<p align="center">
+  <a href="https://github.com/guylepage3/px-rem-reference/blob/master/px-rem.md">
+    <h3 align="center">PX-REM-Reference</h3>
+  </a>
+  <p align="center">
+    `px-rem-reference` is a simple pixels to REM reference chart
+  </p>
+</p>
+
+<br>
 
 ```
 1px   0.0625rem
