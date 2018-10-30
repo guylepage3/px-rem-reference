@@ -4,8 +4,10 @@ A simple <code>px</code> to <code>rem</code> conversion reference chart
 
 ### Install
 
+The following npm install command installs px-rem-reference as a devDependency.
+
 ```
-npm i px-rem-reference
+npm i px-rem-reference --save-dev
 ```
 
 ### Quick reference
