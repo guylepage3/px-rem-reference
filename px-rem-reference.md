@@ -1,7 +1,5 @@
 ### px-rem-reference
-A simple <code>px</code> to <code>rem</code> conversion reference chart. 
-
-`1rem` is equal to `16px`.
+A simple `px` to `rem` conversion reference chart. `1rem` = `16px`.
 
 ```
 1px      0.0625rem

@@ -25,4 +25,4 @@ the file.
 ### Conversion table
 
 The `px` to `rem` conversions are based off of the typical browser default 
-root `font-size` of 16px. Therefore, `1rem` is equal to `16px`.
+root `font-size` of `16px`. Therefore, `1rem` is equal to `16px`.
