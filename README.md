@@ -1,13 +1,8 @@
 # px-rem-reference
 
-A simple <code>px</code> to <code>rem</code> conversion reference chart. 
-
-`1rem` is equal to `16px`.
+A simple <code>px</code> to <code>rem</code> conversion reference chart.
 
 ### Install
-
-The following npm install command installs px-rem-reference as a 
-`devDependency`.
 
 ```
 npm i px-rem-reference --save-dev
@@ -28,5 +23,6 @@ then copy/paste values from the web page.
 the file.
 
 ### Conversion table
+
 The `px` to `rem` conversions are based off of the typical browser default 
 root `font-size` of 16px. Therefore, `1rem` is equal to `16px`.
