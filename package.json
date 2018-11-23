@@ -1,25 +1,36 @@
 {
   "name": "px-rem-reference",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "A simple px to rem conversion reference chart",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/guylepage3/px-rem-reference.git"
-  },
   "keywords": [
     "px-rem",
     "px-to-rem",
     "px",
     "rem"
   ],
-  "author": "Guy Lepage",
-  "license": "MIT",
+  "maintainers": {
+    "name": "Guy Lepage",
+    "email": "guylepage3@gmail.com",
+    "url": "https://lepage.cc"
+  },
+  "contributors": {
+    "url": "https://github.com/guylepage3/px-rem-reference/graphs/contributors"
+  },
   "bugs": {
     "url": "https://github.com/guylepage3/px-rem-reference/issues"
   },
-  "homepage": "https://github.com/guylepage3/px-rem-reference#readme"
+  "author": {
+    "name": "Guy Lepage",
+    "email": "guylepage3@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guylepage3/px-rem-reference.git"
+  },
+  "homepage": "https://github.com/guylepage3/px-rem-reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
