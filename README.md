@@ -4,11 +4,11 @@
     A simple <code>px</code> to <code>rem</code> conversion reference chart.
   </p>
   <p align="center">
-    <a href="https://github.com/guylepage3/copyright-update/issues/new?labels=&template=bug_report.md" alt="Report a Bug (copyright-update)">
+    <a href="https://github.com/guylepage3/px-rem-reference/issues/new?labels=&template=bug_report.md" alt="Report a Bug (px-rem-reference)">
       Report bug
     </a>
     &middot;
-    <a href="https://github.com/guylepage3/copyright-update/issues/new?labels=&template=feature_request.md" alt="Request feature (copyright-update)">
+    <a href="https://github.com/guylepage3/px-rem-reference/issues/new?labels=&template=feature_request.md" alt="Request feature (px-rem-reference)">
       Request feature
     </a>
   </p>
